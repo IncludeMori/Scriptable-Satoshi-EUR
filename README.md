@@ -1,4 +1,4 @@
-# Scriptable-Satoshi-EUR
+# Scriptable: Satoshi - EUR
 
 ![alt text](https://github.com/IncludeMori/Scriptable-Satoshi-EUR/blob/main/preview.jpg)
 
