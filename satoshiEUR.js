@@ -30,7 +30,7 @@ function createWidget() {
 	//displays 24h change
 	widgetL.addSpacer(7)
 	let price_change = widgetL.addText(sData.price_change + ''+'%')
-	if (price_change >= 0) {
+	if (sData.price_change >= 0) {
 		price_change.textColor = Color.green()
 	}
 	else {
